@@ -1,1 +1,1 @@
-This is the PlusPerps Interface, forked from GMX.io.
+This is the Shezhea Perps Interface, forked from GMX.io.
